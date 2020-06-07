@@ -1,0 +1,105 @@
+[{
+    "provedores":[{
+        "proveedorprincipal":"Sanchez SL",
+        "temporda_alta": true,
+        "forma de pago":"€",
+        "preciobase":20.0, 
+        "impuesto:":3, 
+        "precioventa":23
+    },
+    {
+        "proveedor Internacional":"Industria SL",
+        "temporada_alta":true,
+        "forma de pago":"€",
+        "preciobase":50.0, 
+        "impuesto":5,
+        "precioventa":55
+    },
+    {
+        "proveedor local":"Gonzalez SL",
+        "temporada_alta":false,
+        "forma de pago":"€",
+        "preciobase": 20,
+        "impuesto":0,
+        "precioventa":31
+    }
+],
+"habitaciones":[{
+    "numerohabitación":1, 
+    "nombrehabitación":"presidencial", 
+    "camasindividuales":15, 
+    "camas adaptadas":"0",
+    "camasdobles":3
+},
+{
+    "numerohabitación":2, 
+    "nombrehabitación":"residencial", 
+    "camasindividuales":5,
+    "camas adaptadas":"20", 
+    "camasdobles":"0"
+},
+{
+"numerohabitación":3, 
+"nombrehabitación":"nupcial", 
+"camasindividuales":0, 
+"camas adaptadas":0,
+"camas dobles":"1"
+}
+],
+"coste":[{
+    "nombre":"presidencial",
+    "temporada alta":240, 
+    "temporada baja:":120
+},
+{
+    "nombre":"residencial",
+    "temporadaalta":30,
+    "temporadabaja":10
+
+}, 
+{
+    "nombre":"nupcial",
+    "temporada alta":110, 
+    "temporada baja":60
+}
+],
+"hoteles":[{
+    "nombre:":"Gonzalez",
+    "estrellas":5,
+    "Antiguedad:":"6 años",
+    "horario apertura":[{
+        "dias:lunes a viernes", 
+        "horario":"24 horas"
+    }]
+},
+{
+"nombre":"Borjamoll", 
+"estrellas":2,
+"antiguedad:":"1 año",
+"horario apertura":[{
+    "dias":"lunes a viernes",
+    "horario":24 
+},
+]
+},
+{
+ "nombre":"Lastra",
+ "estrelles":3,
+ "antiguedad":"6 meses",
+ "horario apertura":[{
+     "dias":"Lunes-Viernes",
+     "horario":"24 horas>"
+ }]
+}
+]
+},
+{
+    "instalacions":[{
+        "piscina":"9:00-21:00", 
+        "sauna": "9;00-19:00",
+        "pista tenis":"10:00-20:00"
+    }]
+}
+]
+
+
